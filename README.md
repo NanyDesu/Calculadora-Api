@@ -7,3 +7,4 @@ Criar a API de calculadora, atividade de GQSO-914
 - [x] Licença MIT (permissiva)
 - [x] Usando o repositório online
 - [x] Usando integração e entrega contínuas
+
