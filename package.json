@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-api",
+  "version": "1.0.0",
+  "description": "Criar a API de calculadora, atividade de GQSO-914",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanyDesu/Calculadora-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanyDesu/Calculadora-Api/issues"
+  },
+  "homepage": "https://github.com/NanyDesu/Calculadora-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
